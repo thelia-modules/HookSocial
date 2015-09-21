@@ -4,8 +4,7 @@ return array(
     'Facebook' => 'Facebook',
     'Google+' => 'Google+',
     'Instagram' => 'Instagram',
-    'Pinterest' => 'Pinterest',
-    'RSS' => 'RSS',
+    'RSS' => 'RSS-Feed',
     'Twitter' => 'Twitter',
-    'Youtube' => 'Youtube',
+    'Youtube' => 'YouTube',
 );
