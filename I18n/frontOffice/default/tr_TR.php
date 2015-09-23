@@ -2,9 +2,9 @@
 
 return array(
     'Facebook' => 'Facebook',
-    'Google+' => 'Google+',
+    'Google+' => 'Google +',
     'Instagram' => 'Instagram',
-    'RSS' => 'RSS-Feed',
+    'RSS' => 'RSS Beslemesi',
     'Twitter' => 'Twitter',
-    'Youtube' => 'YouTube',
+    'Youtube' => 'Youtube',
 );
